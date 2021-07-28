@@ -1,0 +1,3 @@
+C:\Users\ripli\source\repos\JavaScriptDuckTypingExercise\JavaScriptDuckTypingExercise\obj\Debug\JavaScriptDuckTypingExercise.njsproj.AssemblyReference.cache
+C:\Users\ripli\source\repos\JavaScriptDuckTypingExercise\JavaScriptDuckTypingExercise\obj\Debug\JavaScriptDuckTypingExercise.njsproj.CoreCompileInputs.cache
+C:\Users\ripli\source\repos\JavaScriptDuckTypingExercise\JavaScriptDuckTypingExercise\bin\Microsoft.NodejsTools.WebRole.dll
